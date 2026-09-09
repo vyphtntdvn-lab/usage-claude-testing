@@ -31,7 +31,7 @@ KEY = ["machine", "date", "project", "session", "agent", "model"]
 # True  = chi ghi CSV + SUMMARY.md, tuyet doi khong dung toi git (khong
 #         fetch, khong reset, khong rebase, khong commit, khong push).
 # False = chay binh thuong. Doi lai False khi da kiem tra xong so lieu.
-PUSH_DISABLED = True
+PUSH_DISABLED = False
 # ------------------------------------------------------------------------
 
 
